@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "vywei-github"
     token:
-      secure: "580ea440dbd893caf84f9bedb4ba171a0168b48b"
+      secure: "3d4e57672d1d8fc4c7c8e9df5b6077756fdcaa93"
 jdk:
   - oraclejdk8
 script:
